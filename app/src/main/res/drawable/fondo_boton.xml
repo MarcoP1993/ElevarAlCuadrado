@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" android:padding="10dp">
+
+    <gradient android:startColor="#00BCD4"
+        android:endColor="#2E42AC"
+        android:angle="270"/>
+    <!--
+   <solid android:color="#ED0404"/>
+    -->
+    <stroke android:width="5dp" android:color="#FBBE04"/>//crea borde en el boton
+    <corners android:radius="20dp"/>//redondea los picos del borde
+</shape>
