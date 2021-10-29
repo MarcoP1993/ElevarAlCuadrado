@@ -22,4 +22,5 @@ public class MainActivity extends AppCompatActivity {
         double numero = Double.valueOf(texto_numero.getText().toString());
         texto_resultado.setText(String.valueOf(numero * numero));
     }
+    
 }
